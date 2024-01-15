@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samet SEMİZ</h1>
 <h3 align="center">An ambitious junior web developer from Türkiye</h3>
-<img src="https://github.com/SametSemiz/SametSemiz/assets/61838969/2c6a55a2-6f48-488f-a0ef-eaebb278459e"><br>
+<img src="https://github.com/SametSemiz/SametSemiz/assets/61838969/994615b3-37ba-4bf0-a114-ddc18044a4c9"><br>
 - 🌱 I’m currently learning **Php, Mysql**
 
 - 📫 How to reach me **ssamet_semiz@hotmail.com**
